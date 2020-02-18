@@ -1,4 +1,4 @@
-__name__ = 'crtomo'
+__name__ = 'mohinh'
 __author__ = 'Robin Thibaut'
 
 # imports
