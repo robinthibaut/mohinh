@@ -1,4 +1,5 @@
 # Mohinh package
+pip install mohinh
 
 Python toolbox in construction to assign values to a computational grids!
 Select points in the figure by enclosing them within a polygon.
