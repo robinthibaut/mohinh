@@ -22,7 +22,7 @@ Example with a backgroung value of 100:
 mm = ModelMaker(blocks=blocks, values_log=1, bck=100)
 ```
 ```
-my_model = rfwm.final_results
+my_model = mm.final_results
 ```
 
 ![Initialization](blank.png)
